@@ -1,9 +1,19 @@
-# example-nodejs-mongodb-react
+# Example usage of nodeJS/Express - MongoDB - ReactJS framework
 
-run the project in the root folder:
+run the following command in the root folder:
 
 ### `npm run start-dev`
 
-## two pages :
+## two pages
  - data : display the data row / delete
  - form : insert data
+
+## main features
+ - insert
+ - delete
+ - find
+ - frontend on react js framework
+ - backend on nodejs/express
+ - database on mongoDB
+ - security via .env (dotenv module)
+ - usage of routes
