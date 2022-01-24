@@ -4,6 +4,10 @@ run the following command in the root folder:
 
 ### `npm run start-dev`
 
+## Structure
+ - client-react-framework -> React server
+ - server-nodejs-mongo -> express server
+
 ## two pages
  - data : display the data row / delete
  - form : insert data
